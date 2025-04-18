@@ -1,7 +1,10 @@
 {
-  "name": "HELLSBELLS Token",
+  "name": "HELLSBELLS",
   "symbol": "HELLSBELLS",
-  "description": "HELLSBELLS is a pre-release MEME coin for early adopters. It is convertible into BONZ at a later date (conversion rate to be determined). Get in on the action before BONZ is officially released!",
+  "description": "HELLSBELLS is a pre-release coin for early adopters. It is convertible into BONZ at a 1:1 ratio. Get in on the action before BONZ is officially released!",
   "image": "https://raw.githubusercontent.com/bonzocrypt/bonzcoin.github.io/main/images/bnzocoinlogo.png",
-  "external_url": "https://bonzcoin.io"
+  "external_url": "https://bonzcoin.io/hellsbells.html",
+  "extensions": {
+    "website": "https://bonzcoin.io"
+  }
 }
