@@ -1,3 +1,6 @@
+> ✅ **Verified metadata hosted at GitHub — no central control over supply.**  
+> View metadata: [metadata.json](https://github.com/bonzocrypt/hellsbells/blob/main/metadata.json)
+
 ## 🎁 HELLSBELLS Stealth Airdrop Campaign
 
 As part of our early rollout phase, HELLSBELLS tokens have been selectively distributed to **26 wallets** through a staggered promo campaign.
